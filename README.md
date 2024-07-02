@@ -6,15 +6,15 @@
 
 Django is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit.
 
-|   Index | Name                                        | Difficulty   | Tutorial                                                                                              |
-|---------|---------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Creation of a Basic Poll Application      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/django-creation-of-a-basic-poll-application-153741)      |
-|       2 | 📖 Set Up the Database                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/django-set-up-the-database-153742)                       |
-|       3 | 📖 Creating the Public Interface Views       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/django-creating-the-public-interface-views-153743)       |
-|       4 | 📖 Form Processing and Cutting Down Our Code | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/django-form-processing-and-cutting-down-our-code-153744) |
-|       5 | 📖 Create Some Automated Tests               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/django-create-some-automated-tests-153745)               |
-|       6 | 📖 Add a Stylesheet and an Image             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/django-add-a-stylesheet-and-an-image-153746)             |
-|       7 | 📖 Customizing Django's Admin Site           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/django-customizing-django-s-admin-site-153747)           |
+|   Index | Name                                                                                                                              | Difficulty   | Tutorial Link                                                                                |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------|
+|       1 | [📖 Creation of a Basic Poll Application](https://labex.io/tutorials/django-creation-of-a-basic-poll-application-153741)           | ★☆☆          | [🔗 View](https://labex.io/tutorials/django-creation-of-a-basic-poll-application-153741)      |
+|       2 | [📖 Set Up the Database](https://labex.io/tutorials/django-set-up-the-database-153742)                                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/django-set-up-the-database-153742)                       |
+|       3 | [📖 Creating the Public Interface Views](https://labex.io/tutorials/django-creating-the-public-interface-views-153743)             | ★☆☆          | [🔗 View](https://labex.io/tutorials/django-creating-the-public-interface-views-153743)       |
+|       4 | [📖 Form Processing and Cutting Down Our Code](https://labex.io/tutorials/django-form-processing-and-cutting-down-our-code-153744) | ★☆☆          | [🔗 View](https://labex.io/tutorials/django-form-processing-and-cutting-down-our-code-153744) |
+|       5 | [📖 Create Some Automated Tests](https://labex.io/tutorials/django-create-some-automated-tests-153745)                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/django-create-some-automated-tests-153745)               |
+|       6 | [📖 Add a Stylesheet and an Image](https://labex.io/tutorials/django-add-a-stylesheet-and-an-image-153746)                         | ★☆☆          | [🔗 View](https://labex.io/tutorials/django-add-a-stylesheet-and-an-image-153746)             |
+|       7 | [📖 Customizing Django's Admin Site](https://labex.io/tutorials/django-customizing-django-s-admin-site-153747)                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/django-customizing-django-s-admin-site-153747)           |
 
 ## More Free Tutorials
 
